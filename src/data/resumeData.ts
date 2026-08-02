@@ -10,9 +10,9 @@ export const personalInfo = {
   linkedin: "https://linkedin.com",
   github: "https://github.com",
   objective: "Atuar em posições de entrada na área de Tecnologia da Informação como Desenvolvedora Junior, Estagiária em TI ou Analista de Suporte/Sistemas, aplicando conhecimentos em desenvolvimento de software, banco de dados e metodologias ágeis.",
-  summary: "Estudante do último semestre de Análise e Desenvolvimento de Sistemas pela FATEC Itaquera, com conclusão prevista para Julho/2026. Possuo sólida formação técnica em lógica de programação, arquitetura de sistemas, desenvolvimento web e modelagem de banco de dados.\n\nA vivência prática no setor de atendimento me proporcionou soft skills altamente valorizadas no ecossistema de TI, como excelente comunicação interpessoal, resolução rápida de problemas, agilidade no aprendizado e forte capacidade de colaboração em equipes multifuncionais (squads).",
+  summary: "Estudante do último semestre de Análise e Desenvolvimento de Sistemas pela FATEC Itaquera, com conclusão prevista para Julho/2027. Possuo sólida formação técnica em lógica de programação, arquitetura de sistemas, desenvolvimento web e modelagem de banco de dados.\n\nA vivência prática no setor de atendimento me proporcionou soft skills altamente valorizadas no ecossistema de TI, como excelente comunicação interpessoal, resolução rápida de problemas, agilidade no aprendizado e forte capacidade de colaboração em equipes multifuncionais (squads).",
   availability: "Disponível para Início Imediato / Híbrido ou Presencial em SP e Remoto",
-  graduationDate: "Julho/2026 (Último Semestre)"
+  graduationDate: "Julho/2027 (Último Semestre)"
 };
 
 export const educationData: Education[] = [
@@ -20,8 +20,8 @@ export const educationData: Education[] = [
     institution: "FATEC Itaquera",
     degree: "Tecnólogo em Análise e Desenvolvimento de Sistemas",
     status: "Cursando (Último semestre)",
-    period: "2023 - 2026",
-    expectedCompletion: "Julho/2026"
+    period: "2023 - 2027",
+    expectedCompletion: "Julho/2027"
   }
 ];
 
@@ -29,7 +29,7 @@ export const experienceData: Experience[] = [
   {
     company: "Burger King",
     role: "Atendente Multifuncional",
-    period: "Abril/2026 – Atual",
+    period: "Abril/2027 – Atual",
     location: "São Paulo, SP",
     highlights: [
       {
@@ -125,8 +125,8 @@ export const initialTasksData: TaskItem[] = [
     status: "CONCLUIDO",
     priority: "ALTA",
     assignee: "Maria Cecilia",
-    dueDate: "2026-05-10",
-    createdAt: "2026-05-01"
+    dueDate: "2027-05-10",
+    createdAt: "2027-05-01"
   },
   {
     id: "TASK-102",
@@ -135,8 +135,8 @@ export const initialTasksData: TaskItem[] = [
     status: "CONCLUIDO",
     priority: "ALTA",
     assignee: "Maria Cecilia",
-    dueDate: "2026-05-18",
-    createdAt: "2026-05-05"
+    dueDate: "2027-05-18",
+    createdAt: "2027-05-05"
   },
   {
     id: "TASK-103",
@@ -145,8 +145,8 @@ export const initialTasksData: TaskItem[] = [
     status: "CONCLUIDO",
     priority: "MEDIA",
     assignee: "Maria Cecilia",
-    dueDate: "2026-05-25",
-    createdAt: "2026-05-12"
+    dueDate: "2027-05-25",
+    createdAt: "2027-05-12"
   },
   {
     id: "TASK-104",
@@ -155,8 +155,8 @@ export const initialTasksData: TaskItem[] = [
     status: "EM_ANDAMENTO",
     priority: "MEDIA",
     assignee: "Maria Cecilia",
-    dueDate: "2026-06-05",
-    createdAt: "2026-05-20"
+    dueDate: "2027-06-05",
+    createdAt: "2027-05-20"
   },
   {
     id: "TASK-105",
@@ -165,8 +165,8 @@ export const initialTasksData: TaskItem[] = [
     status: "A_FAZER",
     priority: "BAIXA",
     assignee: "Equipe FATEC",
-    dueDate: "2026-06-15",
-    createdAt: "2026-05-28"
+    dueDate: "2027-06-15",
+    createdAt: "2027-05-28"
   }
 ];
 
@@ -200,7 +200,7 @@ export const sampleEndpoints: ApiEndpoint[] = [
       status: "A_FAZER",
       priority: "MEDIA",
       assignee: "Maria Cecilia",
-      createdAt: "2026-08-02T13:50:00Z"
+      createdAt: "2027-08-02T13:50:00Z"
     }
   },
   {
@@ -213,7 +213,7 @@ export const sampleEndpoints: ApiEndpoint[] = [
     responseBody: {
       id: "TASK-104",
       status: "CONCLUIDO",
-      updatedAt: "2026-08-02T13:52:00Z",
+      updatedAt: "2027-08-02T13:52:00Z",
       message: "Status atualizado com sucesso"
     }
   },
@@ -290,6 +290,6 @@ export const recruiterFaq: RecruiterQuestion[] = [
     id: "faq-4",
     question: "Qual a previsão de término da faculdade e disponibilidade?",
     category: "Educação",
-    answer: "Maria está cursando o último semestre na FATEC Itaquera, com conclusão prevista para Julho/2026. Está pronta para assumir posições presenciais/híbridas em São Paulo ou totalmente remotas imediatamente."
+    answer: "Maria está cursando o último semestre na FATEC Itaquera, com conclusão prevista para Julho/2027. Está pronta para assumir posições presenciais/híbridas em São Paulo ou totalmente remotas imediatamente."
   }
 ];
