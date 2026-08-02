@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+  
+  h1, h2, h3, .font-serif {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* Custom Gold Gradient and Border Helpers for Sophisticated Dark Theme */
+.text-gold {
+  color: #c9a86a;
+}
+
+.bg-gold {
+  background-color: #c9a86a;
+}
+
+.border-gold {
+  border-color: #c9a86a;
+}
+
+.border-dark-subtle {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.bg-dark-card {
+  background-color: #121212;
+}
+
+.bg-dark-elevated {
+  background-color: #1a1a1a;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar for refined UI */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+::-webkit-scrollbar-thumb {
+  background: #2a2a2a;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c9a86a;
+}
