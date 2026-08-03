@@ -78,7 +78,7 @@ export const Navbar: React.FC<NavbarProps> = ({ darkMode, setDarkMode, onOpenCvM
               </span>
               <span className="text-[10px] uppercase tracking-widest text-[#c9a86a]/80 font-mono flex items-center gap-1.5 mt-0.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-[#c9a86a] animate-pulse"></span>
-                FATEC Itaquera (ADS 2026)
+                FATEC Itaquera (ADS 2027)
               </span>
             </div>
           </a>

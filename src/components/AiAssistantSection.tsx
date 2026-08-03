@@ -54,7 +54,7 @@ export const AiAssistantSection: React.FC<AiAssistantSectionProps> = ({ darkMode
         if (match) {
           answer = match.answer;
         } else {
-          answer = "Maria Cecilia é estudante do último semestre de ADS na FATEC Itaquera (formação Julho/2026), domina Java Spring Boot, React, PostgreSQL e traz soft skills de comunicação e resiliência desenvolvidas no atendimento ao cliente. Ela está pronta para iniciar imediatamente como Desenvolvedora Junior, Estagiária ou Analista de Suporte!";
+          answer = "Maria Cecilia é estudante do último semestre de ADS na FATEC Itaquera (formação Julho/2027), domina Java Spring Boot, React, PostgreSQL e traz soft skills de comunicação e resiliência desenvolvidas no atendimento ao cliente. Ela está pronta para iniciar imediatamente como Desenvolvedora Junior, Estagiária ou Analista de Suporte!";
         }
       }
 

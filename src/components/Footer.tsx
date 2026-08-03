@@ -39,7 +39,7 @@ export const Footer: React.FC<FooterProps> = ({ darkMode, onOpenCvModal }) => {
               </span>
             </div>
             <p className="text-xs max-w-md text-neutral-400 font-mono">
-              Desenvolvedora Junior • Análise e Desenvolvimento de Sistemas (FATEC Itaquera 2026).
+              Desenvolvedora Junior • Análise e Desenvolvimento de Sistemas (FATEC Itaquera 2027).
             </p>
           </div>
 

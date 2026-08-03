@@ -93,7 +93,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ darkMode }) => {
                     FATEC Itaquera
                   </div>
                   <div className="text-[10px] uppercase tracking-wider text-neutral-500">
-                    Tecnólogo em ADS (Julho/2026)
+                    Tecnólogo em ADS (Julho/2027)
                   </div>
                 </div>
               </div>

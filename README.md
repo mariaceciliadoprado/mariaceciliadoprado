@@ -7,7 +7,7 @@
 
 ### 🎓 Sobre Mim
 
-- 🎓 **Educação:** Cursando o último semestre de **Análise e Desenvolvimento de Sistemas** na **FATEC Itaquera** (Previsão de terminação: Julho/2026).
+- 🎓 **Educação:** Cursando o último semestre de **Análise e Desenvolvimento de Sistemas** na **FATEC Itaquera** (Previsão de terminação: Julho/2027).
 - 💼 **Experiência:** Atualmente atuando como Atendente Multifuncional no Burger King, onde desenvolvi **soft skills essenciais** como trabalho em equipe sob pressão, comunicação assertiva, rápida resolução de conflitos e adaptabilidade a processos dinâmicos.
 - 🎯 **Objetivo:** Transicionando para a área de Tecnologia, com foco em posições de **Desenvolvedora Junior**, **Estagiária de TI** ou **Analista de Suporte / Sistemas**.
 - 📍 **Localização:** São Paulo, SP - Brasil.

@@ -53,7 +53,7 @@ export const Hero: React.FC<HeroProps> = ({ darkMode, onOpenCvModal, onScrollToP
                   : 'bg-stone-50 border-stone-200 text-stone-700'
               }`}>
                 <GraduationCap className="w-3.5 h-3.5 text-[#c9a86a]" />
-                <span>FATEC Itaquera (ADS • Jul/2026)</span>
+                <span>FATEC Itaquera (ADS • Jul/2027)</span>
               </span>
             </div>
 
@@ -204,7 +204,7 @@ export const Hero: React.FC<HeroProps> = ({ darkMode, onOpenCvModal, onScrollToP
                     <span className="text-[#c9a86a]">String</span> curso = <span className="text-amber-200/90">"Análise e Dev. Sistemas"</span>;
                   </div>
                   <div>
-                    <span className="text-[#c9a86a]">String</span> conclusao = <span className="text-amber-200/90">"Julho/2026 (Último Semestre)"</span>;
+                    <span className="text-[#c9a86a]">String</span> conclusao = <span className="text-amber-200/90">"Julho/2027 (Último Semestre)"</span>;
                   </div>
                 </div>
 
